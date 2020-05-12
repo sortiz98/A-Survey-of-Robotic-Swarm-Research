@@ -5,9 +5,14 @@
 I am a senior double majoring in computer science and data science with a domain emphasis in robotics. My interest in robotics spans a wide range of areas within the field, including the area of robotic swarms. My experience lies primarily in engineering rather than research, and as such, my intrigue in swarms is tied to their many potential applications.
 
 
-### Our Project
+## Our Project
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We set out to gain a comprehensive understanding of robotic swarms in several contexts. Our approach was to survey a range of research papers focusing on topics such as decentralized motion planning, obstacle avoidance, shape formation, and the hardware needed to accomplish the aforementioned. Through the knowledge gained from these literature reviews, we implemented our own robotic swarm decentralized motion planner for shape formation with the intent of acquiring a more nuanced, hands-on intuition for the subject. 
+
+The project is of interest because there are a myriad of useful applications that could follow from a successful implementation. In most realistic settings, obstacles are inevitably part of the workspace – whether it be debris, furniture, or features specific to the environment. For instance, in the context of a warehouse setting,
+a swarm of robots dispersed across the floor would only be useful if it could navigate through the obstacles one may encounter in such an environment like package racks and lifts.
+
+Obstacle avoidance could also potentially be framed as a robustness problem in the event of individual robot failures, as ”dead” robots can be reinterpreted as obstacles in the workspace when attempting to form a shape.
 
 ```markdown
 Syntax highlighted code block
@@ -28,11 +33,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sortiz98/ee106b-final-project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
