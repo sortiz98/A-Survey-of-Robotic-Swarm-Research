@@ -1,6 +1,9 @@
 ### About the Team
 
 ![Image](bio-pic.PNG)
+Stephanie Ortiz-Sevilla
+Email: sortiz98@berkeley.edu
+I am a senior double majoring in computer science and data science with a domain emphasis in robotics.
 
 
 ### Our Project
