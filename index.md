@@ -18,9 +18,9 @@ In the following sections, the research papers and our implementation are descri
 
 We reviewed a total of 8 papers. As mentioned above, each of them involve one or more of the following categories: decentralized motion planning, shape formation, obstacle avoidance, and hardware. The papers are listed and ordered below accordingly. 
 
-#### _Shape Formation in Homogenous Swarms Using Local Task Swapping_
+##### _Shape Formation in Homogenous Swarms Using Local Task Swapping_
 
-#### _Programmable Self-Disassembly for Shape Formation in Large-Scale Robot Collectives_
+##### _Programmable Self-Disassembly for Shape Formation in Large-Scale Robot Collectives_
 
 #### _A Fast, Accurate, and Scalable Probabilistic Sample-Based Approach for Counting Swarm Size_
 
