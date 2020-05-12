@@ -1,12 +1,8 @@
 ### About the Team
 
-![Image](bio-photo.PNG) Hello this is what I amfbje dfeihfkuhe efuhewihfiew
+![Image](bio-photo.PNG) Stephanie Ortiz-Sevilla
 
-Stephanie Ortiz-Sevilla
-
-Email: sortiz98@berkeley.edu
-
-I am a senior double majoring in computer science and data science with a domain emphasis in robotics.
+I am a senior double majoring in computer science and data science with a domain emphasis in robotics. My interest in robotics spans a wide range of areas within the field, including the area of robotic swarms. My experience lies primarily in engineering rather than research, and as such, my intrigue in swarms is tied to their many potential applications.
 
 
 ### Our Project
