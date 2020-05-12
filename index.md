@@ -1,6 +1,6 @@
 ### About the Team
 
-![Image](bio-photo.PNG)
+![Image](bio-photo.PNG) Hello this is what I amfbje dfeihfkuhe efuhewihfiew
 
 Stephanie Ortiz-Sevilla
 
