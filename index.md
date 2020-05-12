@@ -53,3 +53,5 @@ Syntax highlighted code block
 #### Results
 
 ### Conclusion
+
+For a more in-depth description of the project, refer to the following: [insert search paper link]
