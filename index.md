@@ -16,11 +16,12 @@ In the following sections, the research papers and our implementation are descri
 
 ### Literature Reviews
 
+We reviewed a total of 8 papers. As mentioned above, each of them involve one or more of the following categories: decentralized motion planning, shape formation, obstacle avoidance, and hardware. The papers are listed and ordered below accordingly. 
+
+
+
+
 ### Implementation
-
-#### Results
-
-### Conclusion
 
 ```markdown
 Syntax highlighted code block
@@ -39,5 +40,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+#### Results
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Conclusion
