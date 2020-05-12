@@ -18,7 +18,17 @@ In the following sections, the research papers and our implementation are descri
 
 We reviewed a total of 8 papers. As mentioned above, each of them involve one or more of the following categories: decentralized motion planning, shape formation, obstacle avoidance, and hardware. The papers are listed and ordered below accordingly. 
 
+_Shape Formation in Homogenous Swarms Using Local Task Swapping_
 
+_Programmable Self-Disassembly for Shape Formation in Large-Scale Robot Collectives_
+
+_A Fast, Accurate, and Scalable Probabilistic Sample-Based Approach for Counting Swarm Size_
+
+_Interplay of Two Bat Algorithm Robotic Swarms in Non-Cooperative Target Point Search_
+
+_A Swarm Robotic Exploration Strategy Based on an Improved Random Walk Method_
+
+_A Decentralized Control Algorithm for Swarm Behavior and Obstacle Avoidance in Unknown Environments_
 
 
 ### Implementation
