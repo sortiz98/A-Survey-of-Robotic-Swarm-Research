@@ -1,6 +1,6 @@
 ### About the Team
 
-![Image](bio-photo.PNG)
+![Image](bio-pic.PNG)
 
 
 ### Our Project
