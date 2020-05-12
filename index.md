@@ -14,6 +14,14 @@ a swarm of robots dispersed across the floor would only be useful if it could na
 
 In the following sections, the research papers and our implementation are described in more detail.
 
+## Literature Reviews
+
+## Implementation
+
+### Results
+
+## Conclusion
+
 ```markdown
 Syntax highlighted code block
 
