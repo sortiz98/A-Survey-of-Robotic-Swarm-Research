@@ -9,10 +9,10 @@ I am a senior double majoring in computer science and data science with a domain
 
 We set out to gain a comprehensive understanding of robotic swarms in several contexts. Our approach was to survey a range of research papers focusing on topics such as decentralized motion planning, obstacle avoidance, shape formation, and the hardware needed to accomplish the aforementioned. Through the knowledge gained from these literature reviews, we implemented our own robotic swarm decentralized motion planner for shape formation with the intent of acquiring a more nuanced, hands-on intuition for the subject. 
 
-The project is of interest because there are a myriad of useful applications that could follow from a successful implementation. In most realistic settings, obstacles are inevitably part of the workspace – whether it be debris, furniture, or features specific to the environment. For instance, in the context of a warehouse setting,
-a swarm of robots dispersed across the floor would only be useful if it could navigate through the obstacles one may encounter in such an environment like package racks and lifts.
+The project is of interest because there are a myriad of useful applications that could follow from a successful implementation. In most realistic settings, obstacles are inevitably part of the workspace – whether it be debris, furniture, or features specific to the environment. Shape formation is also an essential to performing divvied up tasks in dynamic circumstances. For instance, in the context of a warehouse setting,
+a swarm of robots dispersed across the floor would only be useful if it could navigate through the obstacles one may encounter in such an environment like package racks and lifts. Each robot in the swarm would also have to reach a target position in a formation defined by the locations where tasks are to be completed. While this is occurring, for the purpose of convenience and efficiency, the productivity of the entire swarm should not be compromised by a subgroup malfunctioning agents. This is realized through decentralization. 
 
-Obstacle avoidance could also potentially be framed as a robustness problem in the event of individual robot failures, as ”dead” robots can be reinterpreted as obstacles in the workspace when attempting to form a shape.
+In the following sections, the research papers and our implementation are described in more detail.
 
 ```markdown
 Syntax highlighted code block
