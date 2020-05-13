@@ -34,6 +34,25 @@ The paper takes a subtractive approach for large-scale swarms to autonomously fo
   <img width="500" height="230" src=disassembly.png>
 </p>
 
+
+##### _A Decentralized Control Algorithm for Swarm Behavior and Obstacle Avoidance in Unknown Environments_
+
+The algorithm presented by the paper was based on the concept of Null Space Based behavioral approach to merge different swarm tasks. In particular, the algorithm focuses on sharing sensors’ data in order to avoid obstacles that can be detected in the environment. The success of the approach was shown through simulations in different environments.
+
+<p align="center">
+  <img width="500" height="230" src=obj.png>
+</p>
+
+
+##### _A Swarm Robotic Exploration Strategy Based on an Improved Random Walk Method_
+
+This paper proposes an improved random walk method in which each robot adjusts its step size adaptively to reduce the number of repeated searches by estimating the density of robots in the environment. Simulation experiments and experiments with actual robots showed that an area is covered more efficiently using the proposed method than it is using either Brownian motion or Levy flight.
+
+<p align="center">
+  <img width="400" height="300" src=walk.png>
+</p>
+
+
 ##### _A Fast, Accurate, and Scalable Probabilistic Sample-Based Approach for Counting Swarm Size_
 
 The paper describes a distributed algorithm for computing the number of robots in a swarm, only requiring communication with neighboring robots. The algorithm can accomodate changes in the size the swarm, such as when robots are added or removed. The success of the proposed method is demonstrated in simulation and with a real swarm.
@@ -48,22 +67,6 @@ This paper considers the case of two identical robotic swarms deployed within th
 
 <p align="center">
   <img width="500" height="230" src=bats.png>
-</p>
-
-##### _A Swarm Robotic Exploration Strategy Based on an Improved Random Walk Method_
-
-This paper proposes an improved random walk method in which each robot adjusts its step size adaptively to reduce the number of repeated searches by estimating the density of robots in the environment. Simulation experiments and experiments with actual robots showed that an area is covered more efficiently using the proposed method than it is using either Brownian motion or Levy flight.
-
-<p align="center">
-  <img width="400" height="300" src=walk.png>
-</p>
-
-##### _A Decentralized Control Algorithm for Swarm Behavior and Obstacle Avoidance in Unknown Environments_
-
-The algorithm presented by the paper was based on the concept of Null Space Based behavioral approach to merge different swarm tasks. In particular, the algorithm focuses on sharing sensors’ data in order to avoid obstacles that can be detected in the environment. The success of the approach was shown through simulations in different environments.
-
-<p align="center">
-  <img width="500" height="230" src=obj.png>
 </p>
 
 
