@@ -22,25 +22,30 @@ We reviewed a total of 8 papers. As mentioned above, each of them involve one or
 
 The paper presents a distributed algorithm that solves the tasks of assigning goal locations and creating collision-free paths to said goal locations concurrently. This allows for the identically-programmed robots in the swarm to form any user-specified shape efficiently without collisions. The algorithm was successfully in simulation and in real robots.
 
-   ![Image](wr.png)
+<p align="center">
+  <img width="600" height="200" src=wr.png>
+</p>
 
 ##### _Programmable Self-Disassembly for Shape Formation in Large-Scale Robot Collectives_
 
 The paper takes a subtractive approach for large-scale swarms to autonomously form a wide range of user-specified shapes. Startinng from a dense configuration, each robot determines if it is part of the desired shape; those that are not proceed to remove themselves using an external light as a guide. The subtractive method leads to higher reliability and improved speed.
 
-![Image](disassembly.png)
+<p align="center">
+  <img width="600" height="200" src=disassembly.png>
+</p>
 
 ##### _A Fast, Accurate, and Scalable Probabilistic Sample-Based Approach for Counting Swarm Size_
 
 The paper describes a distributed algorithm for computing the number of robots in a swarm, only requiring communication with neighboring robots. The algorithm can accomodate changes in the size the swarm, such as when robots are added or removed. The success of the proposed method is demonstrated in simulation and with a real swarm.
 
-![Image](count.png)
+<p align="center">
+  <img width="600" height="200" src=count.png>
+</p>
 
 ##### _Interplay of Two Bat Algorithm Robotic Swarms in Non-Cooperative Target Point Search_
 
 This paper considers the case of two identical robotic swarms deployed within the same environment to perform dynamic exploration seeking for two different unknown target points. The environment is also unknown as well as void of light, so no vision sensors can be used. The Bat Algorithm, based on the echolocation used by bats, is utilized to develop a solution.
 
-#![Image](bats.png)
 <p align="center">
   <img width="600" height="200" src=bats.png>
 </p>
@@ -49,13 +54,19 @@ This paper considers the case of two identical robotic swarms deployed within th
 
 This paper proposes an improved random walk method in which each robot adjusts its step size adaptively to reduce the number of repeated searches by estimating the density of robots in the environment. Simulation experiments and experiments with actual robots showed that an area is covered more efficiently using the proposed method than it is using either Brownian motion or Levy flight.
 
-![Image](walk.png)
+<p align="center">
+  <img width="600" height="200" src=walk.png>
+</p>
 
 ##### _A Decentralized Control Algorithm for Swarm Behavior and Obstacle Avoidance in Unknown Environments_
 
 The algorithm presented by the paper was based on the concept of Null Space Based behavioral approach to merge different swarm tasks. In particular, the algorithm focuses on sharing sensors’ data in order to avoid obstacles that can be detected in the environment. The success of the approach was shown through simulations in different environments.
 
-![Image](obj.png)
+<p align="center">
+  <img width="600" height="200" src=obj.png>
+</p>
+
+
 
 ### Implementation
 
