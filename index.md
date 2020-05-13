@@ -94,7 +94,7 @@ Syntax highlighted code block
 
 ### Conclusion
 
-In the end, we learned a lot about robotic swarms, and the different aspects that make them so promising. We now have a more expansive understanding of how distributed algorithms are designed, as well as how--even with a limited communication range--robots in a swarm can use shared data to accomplish tasks like shape formation and obstacle avoidance, among other things. This understanding was only reinforced by our experience in implementing part of what we surveyed ourselves. 
+In the end, we learned a lot about robotic swarms, and the different aspects that make them so promising. We now have a more expansive understanding of how distributed algorithms are designed, as well as how--even with a limited communication range--robots in a swarm can use shared data to accomplish tasks like shape formation, obstacle avoidance, exploration, among other things. This understanding was only reinforced by our experience in implementing part of what we surveyed ourselves. 
 
 ....[Difficulties of Implementation]... 
 
