@@ -22,7 +22,9 @@ We reviewed a total of 8 papers. As mentioned above, each of them involve one or
 
 The paper presents a distributed algorithm that solves the tasks of assigning goal locations and creating collision-free paths to said goal locations concurrently. This allows for the identically-programmed robots in the swarm to form any user-specified shape efficiently without collisions. The algorithm was successfully in simulation and in real robots.
 
-![Image](wr.png){width="300" height="300" style="display: block; margin: 0 auto" }
+<p align="center">
+  <img width="300" height="300" src="wr.png">
+</p>
 
 ##### _Programmable Self-Disassembly for Shape Formation in Large-Scale Robot Collectives_
 
