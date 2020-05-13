@@ -24,6 +24,8 @@ The paper presents a distributed algorithm that solves the tasks of assigning go
 
 ##### _Programmable Self-Disassembly for Shape Formation in Large-Scale Robot Collectives_
 
+The paper takes a subtractive approach for large-scale swarms to autonomously form a wide range of user-specified shapes. Startinng from a dense configuration, each robot determines if it is part of the desired shape; those that are not proceed to remove themselves using an external light as a guide. The subtractive method leads to higher reliability and improved speed.
+
 ##### _A Fast, Accurate, and Scalable Probabilistic Sample-Based Approach for Counting Swarm Size_
 
 ##### _Interplay of Two Bat Algorithm Robotic Swarms in Non-Cooperative Target Point Search_
