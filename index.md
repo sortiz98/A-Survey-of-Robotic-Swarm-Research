@@ -40,7 +40,10 @@ The paper describes a distributed algorithm for computing the number of robots i
 
 This paper considers the case of two identical robotic swarms deployed within the same environment to perform dynamic exploration seeking for two different unknown target points. The environment is also unknown as well as void of light, so no vision sensors can be used. The Bat Algorithm, based on the echolocation used by bats, is utilized to develop a solution.
 
-![Image](bats.png)
+#![Image](bats.png)
+<p align="center">
+  <img width="600" height="200" src=bats.png>
+</p>
 
 ##### _A Swarm Robotic Exploration Strategy Based on an Improved Random Walk Method_
 
