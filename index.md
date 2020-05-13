@@ -20,6 +20,8 @@ We reviewed a total of 8 papers. As mentioned above, each of them involve one or
 
 ##### _Shape Formation in Homogenous Swarms Using Local Task Swapping_
 
+The paper presents a distributed algorithm that solves the tasks of assigning goal locations and creating collision-free paths to said goal locations concurrently. This allows for the identically-programmed robots in the swarm to form any user-specified shape efficiently without collisions. The algorithm was successfully in simulation and in real robots.
+
 ##### _Programmable Self-Disassembly for Shape Formation in Large-Scale Robot Collectives_
 
 ##### _A Fast, Accurate, and Scalable Probabilistic Sample-Based Approach for Counting Swarm Size_
