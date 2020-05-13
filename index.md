@@ -54,4 +54,6 @@ Syntax highlighted code block
 
 ### Conclusion
 
+In the end, we learned a lot about robotic swarms, and the different aspects that make them so promising. [Summarize]... [Difficulties of Implementation]... If we could change one thing, it would have been to test our implementation for with real robots in a more realistic environment. In the future, we would expand our implementation to include obstacle avoidance. While we surveyed possible methods to do so, we did not find the time to incorporate the feature, but we believe it would bring significant value.
+
 For a more in-depth description of the project, refer to the following: [insert search paper link]
