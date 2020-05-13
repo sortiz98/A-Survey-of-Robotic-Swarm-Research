@@ -52,7 +52,7 @@ This paper proposes an improved random walk method in which each robot adjusts i
 
 The algorithm presented by the paper was based on the concept of Null Space Based behavioral approach to merge different swarm tasks. In particular, the algorithm focuses on sharing sensors’ data in order to avoid obstacles that can be detected in the environment. The success of the approach was shown through simulations in different environments.
 
-![Image](Receive Data.png)
+![Image](obj.png)
 
 ### Implementation
 
