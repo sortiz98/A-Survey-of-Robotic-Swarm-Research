@@ -23,7 +23,7 @@ We reviewed a total of 8 papers. As mentioned above, each of them involve one or
 The paper presents a distributed algorithm that solves the tasks of assigning goal locations and creating collision-free paths to said goal locations concurrently. This allows for the identically-programmed robots in the swarm to form any user-specified shape efficiently without collisions. The algorithm was successfully in simulation and in real robots.
 
 <p align="center">
-  <img width="600" height="200" src=wr.png>
+  <img width="300" height="300" src=wr.png>
 </p>
 
 ##### _Programmable Self-Disassembly for Shape Formation in Large-Scale Robot Collectives_
@@ -55,7 +55,7 @@ This paper considers the case of two identical robotic swarms deployed within th
 This paper proposes an improved random walk method in which each robot adjusts its step size adaptively to reduce the number of repeated searches by estimating the density of robots in the environment. Simulation experiments and experiments with actual robots showed that an area is covered more efficiently using the proposed method than it is using either Brownian motion or Levy flight.
 
 <p align="center">
-  <img width="600" height="200" src=walk.png>
+  <img width="400" height="250" src=walk.png>
 </p>
 
 ##### _A Decentralized Control Algorithm for Swarm Behavior and Obstacle Avoidance in Unknown Environments_
