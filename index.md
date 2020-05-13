@@ -28,7 +28,11 @@ The paper takes a subtractive approach for large-scale swarms to autonomously fo
 
 ##### _A Fast, Accurate, and Scalable Probabilistic Sample-Based Approach for Counting Swarm Size_
 
+The paper describes a distributed algorithm for computing the number of robots in a swarm, only requiring communication with neighboring robots. The algorithm can accomodate changes in the size the swarm, such as when robots are added or removed. The success of the proposed method is demonstrated in simulation and with a real swarm.
+
 ##### _Interplay of Two Bat Algorithm Robotic Swarms in Non-Cooperative Target Point Search_
+
+This paper considers the case of two identical robotic swarms deployed within the same environment to perform dynamic exploration seeking for two different unknown target points. The environment is also unknown as well as void of light, so no vision sensors can be used. The Bat Algorithm, based on the echolocation used by bats, is utilized to develop a solution.
 
 ##### _A Swarm Robotic Exploration Strategy Based on an Improved Random Walk Method_
 
