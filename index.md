@@ -113,5 +113,5 @@ Implementation of the Wang-Rubenstein algorithm presented its own unique challen
 
 If we could change one thing, it would have been to test our implementation for with real robots in a more realistic environment. In the future, we would expand our implementation to include obstacle avoidance. While we surveyed possible methods to do so, we did not find the time to incorporate the feature, but we believe it would bring significant value.
 
-For a more in-depth description of the project, refer to the following: ![Url](https://www.overleaf.com/read/dsnzjskycxqb)
+For a more in-depth description of the project, refer to the following: https://www.overleaf.com/read/dsnzjskycxqb
 
