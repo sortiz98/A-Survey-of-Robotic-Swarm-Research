@@ -4,6 +4,10 @@
 
 I am a senior double majoring in computer science and data science with a domain emphasis in robotics. My interest in robotics spans a wide range of areas within the field, including the area of robotic swarms. My experience lies primarily in engineering rather than research, and as such, my intrigue in swarms is tied to their many potential applications.
 
+![Image](kat-photo.PNG) Katelyn Biesiadecki
+
+I am a junior majoring in computer science and minoring in English. In the past, I've worked at NASA as a Software Intern and Walt Disney Imagineering as a Robotic Animation Software Engineering Intern, which inspired me to pursue robotics in my studies. I find swarm robotics to be compelling as a new way to think about solving problems on a large or micro scale, and I would be interested in learning more about their applications. 
+
 
 ## Our Project
 
@@ -69,34 +73,40 @@ This paper considers the case of two identical robotic swarms deployed within th
   <img width="500" height="230" src="bats.png">
 </p>
 
+##### _SpinBot: An Autonomous, Externally Actuated Robot for Swarm Applications_
+
+This paper proposes a new robotic platform for swarm applications which utilizes external actuation in the form of an orbital table. This design, called a SpinBot, relies on orbital motion and shifting its center of mass to move around the table. The resulting motion is slow, but reasonably accurate, and presents a baseline to improve upon for future research in externally actuated swarms to further reduce the complexity of the individual robot. 
+
+##### _Using Hardware Specialization and Hierarchy to Simplify Robotic Swarms_
+ 
+This paper presents the use of hardware specialization and hierarchy in robotic swarms to leverage the unique capabilities of a designated subset of the swarm towards a certain task layer. In particular, to achieve shape formation, a layer of Coachbots constitutes the global task of path planning, task assignment, and progress checking while Kilobots constitute the local task of random walk exploration and contact-based communication.
 
 
 ### Implementation
 
-```markdown
-Syntax highlighted code block
+To investigate the claims of Wang and Rubenstein, we begin by implementing 
+the motion planning algorithm in a suitable simulation environment. The Robotarium project,
+supported by the Georgia Institute of Technology, provides a remotely-accessible
+swarm robotics research platform which is free of cost and available to the public
+at robotarium.gatech.edu.
+It offers two simulations environments, one in Python and the other in Matlab. In
+this project, we utilize the Matlab platform to conduct our experiments in simulation.
 
-# Header 1
-## Header 2
-### Header 3
+The implementation is broken into 3 main files:
+- WRBOT.m
+- wang_rubenstein.m
+- Message.m
 
-- Bulleted
-- List
+where WRBot.m contains the Wang-Rubenstein algorithms running on each robot and wang_rubenstein.m runs them.
+To view our implementation, go to github.com/kbiesiadecki141/final-eecs106b.git
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 #### Results
 
 ### Conclusion
 
 In the end, we learned a lot about robotic swarms, and the different aspects that make them so promising. We now have a more expansive understanding of how distributed algorithms are designed, as well as how--even with a limited communication range--robots in a swarm can use shared data to accomplish tasks like shape formation, obstacle avoidance, exploration, among other things. This understanding was only reinforced by our experience in implementing part of what we surveyed ourselves. 
 
-....[Difficulties of Implementation]... 
+Implementation of the Wang-Rubenstein algorithm presented its own unique challenges, including the interpretation of the pseudocode provided in the paper and subsequent translation into Matlab. The exact implementation of certain functions in each algorithm was obscured, so it was up to us to decide how to proceed. 
 
 If we could change one thing, it would have been to test our implementation for with real robots in a more realistic environment. In the future, we would expand our implementation to include obstacle avoidance. While we surveyed possible methods to do so, we did not find the time to incorporate the feature, but we believe it would bring significant value.
 
