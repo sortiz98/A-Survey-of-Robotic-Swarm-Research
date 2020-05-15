@@ -102,6 +102,7 @@ To view our implementation, go to github.com/kbiesiadecki141/final-eecs106b.git
 
 #### Results
 Click to view
+
 [![Image](https://img.youtube.com/vi/35XEwmZGsiY/0.jpg)](https://youtu.be/35XEwmZGsiY "Swarm")
 
 ### Conclusion
