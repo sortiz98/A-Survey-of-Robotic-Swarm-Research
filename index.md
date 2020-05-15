@@ -4,7 +4,7 @@
 
 I am a senior double majoring in computer science and data science with a domain emphasis in robotics. My interest in robotics spans a wide range of areas within the field, including the area of robotic swarms. My experience lies primarily in engineering rather than research, and as such, my intrigue in swarms is tied to their many potential applications.
 
-![Image](kat-photo.PNG) Katelyn Biesiadecki
+![Image](kat-bio.png) Katelyn Biesiadecki
 
 I am a junior majoring in computer science and minoring in English. In the past, I've worked at NASA as a Software Intern and Walt Disney Imagineering as a Robotic Animation Software Engineering Intern, which inspired me to pursue robotics in my studies. I find swarm robotics to be compelling as a new way to think about solving problems on a large or micro scale, and I would be interested in learning more about their applications. 
 
